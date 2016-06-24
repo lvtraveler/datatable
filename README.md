@@ -8,9 +8,9 @@
 
 ```
 
-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
--	<script type="text/javascript" src="http://cdn.datatables.net/s/dt/dt-1.10.10,se-1.1.0/datatables.min.js"></script>
--	<script type="text/javascript" src="http://gyrocode.github.io/jquery-datatables-checkboxes/1.0.1/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.datatables.net/s/dt/dt-1.10.10,se-1.1.0/datatables.min.js"></script>
+<script type="text/javascript" src="http://gyrocode.github.io/jquery-datatables-checkboxes/1.0.1/js/dataTables.checkboxes.min.js"></script>
 
 ```
 
@@ -18,8 +18,8 @@
 
 ```
 
-- <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/s/dt/dt-1.10.10,se-1.1.0/datatables.min.css">
--	<link rel="stylesheet" type="text/css" href="http://gyrocode.github.io/jquery-datatables-checkboxes/1.0.1/css/dataTables.checkboxes.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/s/dt/dt-1.10.10,se-1.1.0/datatables.min.css">
+<link rel="stylesheet" type="text/css" href="http://gyrocode.github.io/jquery-datatables-checkboxes/1.0.1/css/dataTables.checkboxes.css">
 
 ```
 
